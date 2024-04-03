@@ -1,0 +1,58 @@
+{
+  "produtos": [
+    {
+      "id": "aa93",
+      "descricao": "Caneta vermelha",
+      "preco": 4.5,
+      "quantidade": 12
+    },
+    {
+      "id": "d0de",
+      "descricao": "relogio",
+      "preco": 300,
+      "quantidade": 17
+    },
+    {
+      "id": "2e57",
+      "descricao": "Projetor",
+      "preco": 1500,
+      "quantidade": 19
+    },
+    {
+      "id": "4888",
+      "descricao": "Teclado ",
+      "preco": 140,
+      "quantidade": 42
+    }
+  ],
+  "clientes": [
+    {
+      "id": "9dcc",
+      "nome": "Vinicius ",
+      "endereco": "Rua 1, casa1, numero 40",
+      "casado": true,
+      "renda": 5000
+    },
+    {
+      "id": "92c7",
+      "nome": "Henrique ",
+      "endereco": "Rua 2, casa1, numero 35",
+      "casado": true,
+      "renda": 3500
+    },
+    {
+      "id": "ca8c",
+      "nome": "Lucas ",
+      "endereco": "Rua 7, casa1, numero 400",
+      "casado": false,
+      "renda": 4500
+    },
+    {
+      "id": "a181",
+      "nome": "Vitor ",
+      "endereco": "Rua 2, casa4, numero 80",
+      "casado": false,
+      "renda": 2540
+    }
+  ]
+}
